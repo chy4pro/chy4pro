@@ -1,16 +1,19 @@
-## Hi there 👋
+<img align="right" src="https://komarev.com/ghpvc/?username=chy4pro" alt="chy4pro" />
 
-<!--
-**chy4pro/chy4pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Haoyu Chen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- 2014-2018 UC Davis, Computer Science & Eng.
+
+## Interests
+
+- Artificial Intelligent
+
+## Skills
+
+- Natural Language: Chinese (Native); English; Japanese
+- Programming Language: **Python**; C++;
+- Typesetting Language: **Markdown**; LaTeX
+- Programming Framework: **PyTorch**; TensorFlow
