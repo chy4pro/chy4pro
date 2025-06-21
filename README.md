@@ -5,7 +5,7 @@
 
 ## Education
 
-- 2014-2018 UC Davis, Computer Science & Eng.
+- UC Davis, Computer Science & Eng.
 
 ## Interests
 
